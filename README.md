@@ -23,7 +23,7 @@ The dataset consists of the following tables:
   
 ### Call Data (2018-2021):
 
-_ CallTimestamp: Timestamp of the call.
+- CallTimestamp: Timestamp of the call.
 - CallType: Type of the call.
 - CallDuration: Duration of the call (in seconds).
 - WaitTime: Time the caller waited before the call was picked up (in seconds).
